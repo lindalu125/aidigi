@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Learning Base",
+    "src": "learning-base.jsonc",
+    "link": "learning-base",
+    "description": "Digital marketing learning resources and knowledge base."
+  },
+  {
+    "name": "SEO",
+    "src": "seo.jsonc",
+    "link": "seo",
+    "description": "Search Engine Optimization tools."
+  },
+  {
+    "name": "Keyword Research",
+    "src": "keyword-research.jsonc",
+    "link": "keyword-research",
+    "description": "Tools for keyword research and analysis."
+  },
+  {
+    "name": "Copywriting",
+    "src": "copywriting.jsonc",
+    "link": "copywriting",
+    "description": "Copywriting and content creation tools."
+  },
+  {
+    "name": "Emails & SMS",
+    "src": "emails-sms.jsonc",
+    "link": "emails-sms",
+    "description": "Email and SMS marketing tools."
+  },
+  {
+    "name": "Website Building",
+    "src": "website-building.jsonc",
+    "link": "website-building",
+    "description": "Website building and design tools."
+  },
+  {
+    "name": "Chrome Plugin",
+    "src": "chrome-plugin.jsonc",
+    "link": "chrome-plugin",
+    "description": "Marketing-related Chrome browser extensions."
+  },
+  {
+    "name": "Freelance Platform",
+    "src": "freelance-platform.jsonc",
+    "link": "freelance-platform",
+    "description": "Freelance and outsourcing service platforms."
+  },
+  {
+    "name": "Social Media",
+    "src": "social-media.jsonc",
+    "link": "social-media",
+    "description": "Social media marketing and management tools."
+  },
+  {
+    "name": "Images & Icons",
+    "src": "images-icons.jsonc",
+    "link": "images-icons",
+    "description": "Tools and resources for images & icons."
+  },
+  {
+    "name": "Backlink",
+    "src": "backlink.jsonc",
+    "link": "backlink",
+    "description": "Backlink building and analysis tools."
+  },
+  {
+    "name": "Affiliate Marketing",
+    "src": "affiliate-marketing.jsonc",
+    "link": "affiliate-marketing",
+    "description": "Affiliate marketing tools and platforms."
+  },
+  {
+    "name": "Others",
+    "src": "others.jsonc",
+    "link": "others",
+    "description": "Other tools & resources."
+  },
+  {
+    "name": "Wordpress Plugin",
+    "src": "wordpress-plugin.jsonc",
+    "link": "wordpress-plugin",
+    "description": "WordPress plugins for website."
+  },
+  {
+    "name": "Ecommerce",
+    "src": "ecommerce.jsonc",
+    "link": "ecommerce",
+    "description": "E-commerce marketing and management tools."
+  }
+]

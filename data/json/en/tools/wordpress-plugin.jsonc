@@ -1,0 +1,149 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "icon_url": "icon_path", (Optional)
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+
+[
+  {
+    "name": "Uncanny Automator",
+    "description": "No code automation for wordpress",
+    "url": "https://automatorplugin.com/",
+    "featured": false,
+    "tags": ["automation"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "WSform",
+    "description": "Powerful wp form plugin",
+    "url": "https://wsform.com/",
+    "featured": false,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "Meta Box",
+    "description": "WP Custom post type, custom meta boxes & custom fields plugin",
+    "url": "https://metabox.io/",
+    "featured": true,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "WPCodeBox",
+    "description": "Powerful wordpress code snippet manager with cloud sync for efficient development and site customization",
+    "url": "https://wpcodebox.com/ ",
+    "featured": false,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "HappyFiles",
+    "description": "Organize wp media library,post types & plugins",
+    "url": "https://happyfiles.io/",
+    "featured": false,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "Frames",
+    "description": "Modular bricks builder templates & components",
+    "url": "https://getframes.io/",
+    "featured": false,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "Automatic.css",
+    "description": "CSS framework for bricks&oxygen builder",
+    "url": "https://automaticcss.com/",
+    "featured": false,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "POST SMTP Mailer",
+    "description": "Good mail SMTP plugin for wordpress",
+    "url": "https://wordpress.org/plugins/post-smtp/",
+    "featured": false,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "WPML",
+    "description": "Good wp multilingual plugin",
+    "url": "https://wpml.org/",
+    "featured": false,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "Rankmath",
+    "description": "Good wp seo plugin",
+    "url": "https://rankmath.com",
+    "featured": false,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "Yoast SEO",
+    "description": "WordPress SEO Plugin",
+    "url": "https://yoast.com/wordpress/plugins/seo/",
+    "featured": false,
+    "tags": ["WordPress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "SEOPress",
+    "description": "WordPress SEO Plugin",
+    "url": "https://www.seopress.org/",
+    "featured": false,
+    "tags": ["WordPress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "WP Applaud",
+    "description": "Add applause on wp blog post",
+    "url": "https://wordpress.org/plugins/wp-applaud/",
+    "featured": false,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "Post Views Counter",
+    "description": "Display total views on wp posts",
+    "url": "https://wordpress.org/plugins/post-views-counter/",
+    "featured": false,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "WP Word Count",
+    "description": "Display counting words & reading time on wp post",
+    "url": "https://wordpress.org/plugins/wp-word-count/",
+    "featured": false,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  },
+  {
+    "name": "FluentSnippets",
+    "description": "Free wordpress code snippets manager",
+    "url": "https://fluentsnippets.com/",
+    "featured": true,
+    "tags": ["Wordpress Plugin"],
+    "category": "Wordpress Plugin"
+  }
+]

@@ -1,0 +1,77 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "icon_url": "icon_path", (Optional)
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+
+[
+  {
+    "name": "Chatgpt",
+    "description": "Best AI chatbot by openai",
+    "url": "https://chat.openai.com/auth/login",
+    "featured": true,
+    "tags": ["AI Bot"],
+    "category": "AI Bot"
+  },
+  {
+    "name": "Google Bard",
+    "description": "Google Ai Chatbot",
+    "url": "https://bard.google.com/chat",
+    "featured": true,
+    "tags": ["AI Bot"],
+    "category": "AI Bot"
+  },
+  {
+    "name": "Claude",
+    "description": "AI chatbot by claude",
+    "url": "https://claude.ai/",
+    "featured": false,
+    "tags": ["AI Bot"],
+    "category": "AI Bot"
+  },
+  {
+    "name": "Claude 2 AI",
+    "description": "Claude 2 chatbot, can be used by non-US residents",
+    "url": "https://chat.finechat.ai/chats",
+    "featured": false,
+    "tags": ["AI Bot"],
+    "category": "AI Bot"
+  },
+  {
+    "name": "Microsoft Copilot",
+    "description": "Bing chat with AI & Chatgpt-4",
+    "url": "https://copilot.microsoft.com/",
+    "featured": true,
+    "tags": ["AI Bot"],
+    "category": "AI Bot"
+  },
+  {
+    "name": "Character.ai",
+    "description": "Chat with user-created AI characters",
+    "url": "https://beta.character.ai/",
+    "featured": false,
+    "tags": ["AI Bot"],
+    "category": "AI Bot"
+  },
+  {
+    "name": "Coze",
+    "description": "No-code AI bot builder",
+    "url": "https://www.coze.com/",
+    "featured": false,
+    "tags": ["AI Bot", "No-Code"],
+    "category": "AI Bot"
+  }
+]

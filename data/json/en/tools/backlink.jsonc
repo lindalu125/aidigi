@@ -1,0 +1,54 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "icon_url": "icon_path", (Optional)
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+
+[
+  {
+    "name": "Ahrefs",
+    "description": "The best and most powerful backlink checker",
+    "url": "https://ahrefs.com/",
+    "featured": false,
+    "tags": ["Backlink"],
+    "category": "Backlink"
+  },
+  {
+    "name": "HARO",
+    "description": "Get backlinks from top media",
+    "url": "https://www.helpareporter.com/",
+    "featured": false,
+    "tags": ["Backlink"],
+    "category": "Backlink"
+  },
+  {
+    "name": "BuzzStream",
+    "description": "Best influencer outreach tool",
+    "url": "https://www.buzzstream.com/link-building",
+    "featured": false,
+    "tags": ["Backlink"],
+    "category": "Backlink"
+  },
+  {
+    "name": "SEO Review Tools",
+    "description": "Free backlink checker",
+    "url": "https://www.seoreviewtools.com/valuable-backlinks-checker/",
+    "featured": false,
+    "tags": ["Backlink"],
+    "category": "Backlink"
+  }
+]
+

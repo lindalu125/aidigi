@@ -1,0 +1,62 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "icon_url": "icon_path", (Optional)
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+
+
+[
+  {
+    "name": "Vectorizer.Ai",
+    "description": "Convert JPEG and PNG to SVG in full color",
+    "url": "https://vectorizer.ai/",
+    "featured": false,
+    "tags": ["AI image"],
+    "category": "AI Image"
+  },
+  {
+    "name": "Clipdrop",
+    "description": "Remove background, cleanup pictures, upscaling, Stable diffusion and more…",
+    "url": "https://clipdrop.co/",
+    "featured": true,
+    "tags": ["AI image"],
+    "category": "AI Image"
+  },
+  {
+    "name": "Topaz Labs",
+    "description": "Best paid enhancing & upscaling photo & video quality",
+    "url": "https://www.topazlabs.com/",
+    "featured": true,
+    "tags": ["AI image"],
+    "category": "AI Image"
+  },
+  {
+    "name": "Upscayl",
+    "description": "Useful free Upscaling photo & video software",
+    "url": "https://www.upscayl.org/",
+    "featured": true,
+    "tags": ["AI image"],
+    "category": "AI Image"
+  },
+  {
+    "name": "Magnific",
+    "description": "Photo & video enhancer & upscaler online",
+    "url": "https://magnific.ai/",
+    "featured": true,
+    "tags": ["AI image"],
+    "category": "AI Image"
+  }
+]

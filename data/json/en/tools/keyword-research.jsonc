@@ -1,0 +1,75 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+[
+  {
+    "name": "Ahrefs",
+    "description": "Best keyword search & Backlinks tool",
+    "url": "https://ahrefs.com",
+    "featured": true,
+    "tags": ["Keyword Research"],
+    "category": "Keyword Research"
+  },
+  {
+    "name": "SEMRUSH",
+    "description": "check competitors' free & paid traffic and keywords",
+    "url": "https://www.semrush.com/",
+    "featured": false,
+    "tags": ["Keyword Research"],
+    "category": "Keyword Research"
+  },
+  {
+    "name": "Google Keyword Planner",
+    "description": "Best free accurate keyword tool",
+    "url": "https://ads.google.com/home/tools/keyword-planner/",
+    "featured": true,
+    "tags": ["Keyword Research"],
+    "category": "Keyword Research"
+  },
+  {
+    "name": "KWFinder",
+    "description": "Cost-effective paid keywords tool",
+    "url": "https://mangools.com/kwfinder/",
+    "featured": false,
+    "tags": ["Keyword Research"],
+    "category": "Keyword Research"
+  },
+  {
+    "name": "SeedKeywords",
+    "description": "Find new keywords idea",
+    "url": "https://www.seedkeywords.com/",
+    "featured": false,
+    "tags": ["Keyword Research"],
+    "category": "Keyword Research"
+  },
+  {
+    "name": "Lsigraph",
+    "description": "LSI keyword tool",
+    "url": "https://lsigraph.com/",
+    "featured": false,
+    "tags": ["Keyword Research"],
+    "category": "Keyword Research"
+  },
+  {
+    "name": "Search Volume",
+    "description": "Free keyword search volume tool",
+    "url": "https://searchvolume.io/",
+    "featured": false,
+    "tags": ["Keyword Research"],
+    "category": "Keyword Research"
+  }
+]

@@ -1,0 +1,179 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+[
+  {
+    "name": "AnswerThePublic",
+    "description": "Free longtail keywords search tool",
+    "url": "https://answerthepublic.com/?via=pew",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "SpyFu",
+    "description": "Check competitors' online marketing channels",
+    "url": "https://www.spyfu.com/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "AlsoAsked",
+    "description": "Find questions people asked in different countries",
+    "url": "https://alsoasked.com/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Rich Snippets",
+    "description": "Check whether the content can be marked with schema on a webpage be recognized by Google",
+    "url": "https://search.google.com/test/rich-results",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "QuestionDB",
+    "description": "Free keyword questions tool",
+    "url": "https://questiondb.io/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Similarweb",
+    "description": "Best check and analyze tool for big traffic website",
+    "url": "https://www.similarweb.com/",
+    "featured": true,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Easy Counter",
+    "description": "Website analysiez tool for small traffic website",
+    "url": "https://www.easycounter.com/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Microsoft Clarity",
+    "description": "Free heatmap recorder",
+    "url": "https://clarity.microsoft.com/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "TechnicalSeo",
+    "description": "Schema markup generator",
+    "url": "https://technicalseo.com/tools/schema-markup-generator/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "SmallSEOTools",
+    "description": "Free kinds of SEO tools",
+    "url": "https://smallseotools.com/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Wayback Machine",
+    "description": "Website archive",
+    "url": "https://web.archive.org/",
+    "featured": true,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Siteliner",
+    "description": "Free and fast analysis of your entire website",
+    "url": "https://www.siteliner.com/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Brightlocal",
+    "description": "Local SEO research",
+    "url": "https://www.brightlocal.com/research/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Sitelike.org",
+    "description": "Similar websites search",
+    "url": "https://www.sitelike.org/",
+    "featured": true,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Similar Site Search",
+    "description": "Find similar websites",
+    "url": "https://similars.net/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Siteprice.org",
+    "description": "Website value,similar websites,traffic checker",
+    "url": "https://www.siteprice.org/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Sitesimilar",
+    "description": "Search similar sites",
+    "url": "https://www.sitesimilar.net/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Website Informer",
+    "description": "Website Whois lookup",
+    "url": "https://website.informer.com/",
+    "featured": true,
+    "tags": ["Whois"],
+    "category": "SEO"
+  },
+  {
+    "name": "Seowl",
+    "description": "Free Google Title Rewrite Checker",
+    "url": "https://www.seowl.co/title-rewrite-checker/",
+    "featured": false,
+    "tags": ["SEO"],
+    "category": "SEO"
+  },
+  {
+    "name": "Meta Seo Inspector",
+    "description": "Easily inspect the meta data found inside web pages, find issues and get advices to fix them.",
+    "url": "https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef",
+    "featured": true,
+    "tags": ["SEO"],
+    "category": "SEO"
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "home": {
+    "meta_title": "DevToolset: Open-source, database-less developer tool resource navigation platform",
+    "meta_description": "Find every developer tool you need for your development journey here",
+    "h2": "Open-source, database-less developer tool resource navigation platform",
+    "description": "Find every developer tool you need for your development journey here"
+  },
+  "article": {
+    "meta_title": "Articles",
+    "meta_description": "Read articles to learn about the latest developer tools, development experiences, tips, and best practices",
+    "homeBtn": "Home",
+    "articleBtn": "Articles",
+    "h1": "Articles",
+    "h2": "Read more articles about DevToolset",
+    "backToArticles": "Back to Article List"
+  },
+  "changelog": {
+    "meta_title": "Changelog",
+    "meta_description": "View DevToolset's changelog",
+    "h1": "Changelog",
+    "h2": "View DevToolset's changelog",
+    "homeBtn": "Home",
+    "changelogBtn": "Changelog"
+  },
+  "tools": {
+    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
+    "h2_1": "All developer tools related to",
+    "h2_2": "",
+    "homeBtn": "Home"
+  },
+  "search": {
+    "input_placeholder": "Search tools by name / tags...",
+    "heading": "Suggestions",
+    "more": "More",
+    "button": "Search"
+  },
+  "navigation": {
+    "homeBtn": "Home",
+    "categoryBtn": "Category",
+    "moreCategoryBtn": "More",
+    "moreCategoryDescription": "More Categories",
+    "articleBtn": "Articles",
+    "articleDescription": "Open-source, database-less developer tool resource navigation platform",
+    "article1Title": "Add new developer tools to DevToolset",
+    "article2Title": "Deploy your own DevToolset",
+    "moreArticleBtn": "More",
+    "moreArticleDescription": "More Articles",
+    "changelogBtn": "Changelog",
+    "submitToolBtn": "Submit Tool",
+    "aiToolsBtn": "AI Tools",
+    "digiToolsBtn": "Digital Marketing Tools"
+  },
+  "footer": {
+    "description": "Open-source, database-less developer tool resource navigation platform",
+    "builtWith": "Built with",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "article": "Articles",
+    "changelog": "Changelog",
+    "privacy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "legal": "Legal",
+    "connect": "Contact Us",
+    "support": "Support",
+    "copyright": "Copyright."
+  },
+  "toolsList": {
+    "more": "More",
+    "tools": "Tools"
+  },
+  "articleList": {
+    "h2": "Articles",
+    "moreArticles": "More Articles"
+  },
+  "aiTools": {
+    "meta_title": "AI Tools - DevToolset",
+    "meta_description": "Discover and use the latest AI development tools",
+    "h1": "AI Tools",
+    "h2": "Boost Your AI Development Efficiency",
+    "description": "Explore a curated collection of AI development tools to enhance your AI projects."
+  },
+  "digiTools": {
+    "meta_title": "Digital Marketing Tools - DevToolset",
+    "meta_description": "Find essential digital marketing tools for your marketing campaigns",
+    "h1": "Digital Marketing Tools",
+    "h2": "Boost Your Marketing Efforts",
+    "description": "Discover a curated collection of digital marketing tools to enhance your marketing strategies and campaigns."
+  },
+  "submitTool": {
+    "meta_title": "Submit Tool - DevToolset",
+    "meta_description": "Submit your AI & Digital marketing tools to DevToolset",
+    "title": "Submit Tool",
+    "description": "Submit your AI & Digital marketing tools here",
+    "toolName": "Tool Name",
+    "toolNamePlaceholder": "Enter tool name",
+    "toolUrl": "Tool URL",
+    "toolUrlPlaceholder": "Enter tool URL",
+    "toolDescription": "Tool Description",
+    "toolDescriptionPlaceholder": "Enter tool description",
+    "toolCategory": "Tool Category",
+    "selectCategory": "Select a category",
+    "submit": "Submit"
+  }
+}

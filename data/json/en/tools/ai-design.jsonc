@@ -1,0 +1,100 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+
+[
+  {
+    "name": "Midjourney",
+    "description": "Powerful AI images & videos generator by prompts",
+    "url": "https://www.midjourney.com",
+    "featured": true,
+    "tags": ["AI Design"],
+    "category": "AI Design"
+  },
+  {
+    "name": "Leonardo.ai/",
+    "description": "Create art & image, an alternative to Midjourney",
+    "url": "https://leonardo.ai/",
+    "featured": true,
+    "tags": ["AI Design"],
+    "category": "AI Design"
+  },
+  {
+    "name": "Ideogram",
+    "description": "Text-infused AI image generator by prompts",
+    "url": "https://ideogram.ai/login",
+    "featured": false,
+    "tags": ["AI Design"],
+    "category": "AI Design"
+  },
+  {
+    "name": "Playground",
+    "description": "AI image creator",
+    "url": "https://playground.com/login?redirect=/create?#",
+    "featured": false,
+    "tags": ["AI Design"],
+    "category": "AI Design"
+  },
+  {
+    "name": "Nightcafé",
+    "description": "Create AI art & NFT",
+    "url": "https://creator.nightcafe.studio/",
+    "featured": true,
+    "tags": ["AI Design"],
+    "category": "AI Design"
+  },
+  {
+    "name": "Getimg.ai",
+    "description": "AI create,expand,edit images",
+    "url": "https://getimg.ai/",
+    "featured": true,
+    "tags": ["AI Design"],
+    "category": "AI Design"
+  },
+  {
+    "name": "Stable Diffusion",
+    "description": "Ai art generator & text-to-image model",
+    "url": "https://stablediffusionweb.com/",
+    "featured": true,
+    "tags": ["AI Design", "Prompt"],
+    "category": "AI Design"
+  },
+  {
+    "name": "Lexica",
+    "description": "Ai art generator & art prompt library",
+    "url": "https://lexica.art/",
+    "featured": false,
+    "tags": ["AI Design"],
+    "category": "AI Design"
+  },
+  {
+    "name": "EQMJ",
+    "description": "Midjourney's simple alternative from China",
+    "url": "http://www.eqmj.cc/enter",
+    "featured": true,
+    "tags": ["AI Design"],
+    "category": "AI Design"
+  },
+  {
+    "name": "OpenArt",
+    "description": "Create Ai art & Ai models offered",
+    "url": "https://openart.ai/",
+    "featured": true,
+    "tags": ["AI Design", "AI Model"],
+    "category": "AI Design"
+  }
+]

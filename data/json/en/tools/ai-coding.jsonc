@@ -1,0 +1,26 @@
+[
+  {
+    "name": ".bubble",
+    "description": "Build any web app without code",
+    "url": "https://bubble.io/",
+    "featured": true,
+    "tags": ["AI Coding","No-Code"],
+    "category": "AI Coding"
+  },
+  {
+    "name": "AirCode",
+    "description": "Node.Js serverless stack for API development",
+    "url": "https//aircode.io",
+    "featured": false,
+    "tags": ["AI Coding"],
+    "category": "AI Coding"
+  },
+  {
+    "name": "Imagica",
+    "description": "Build a no-code Ai app",
+    "url": "https://get.imagica.ai/",
+    "featured": false,
+    "tags": ["AI Coding"],
+    "category": "AI Coding"
+  }
+]

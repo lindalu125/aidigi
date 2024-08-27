@@ -1,0 +1,172 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "icon_url": "icon_path", (Optional)
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+[
+  {
+    "name": "Bricks Builder",
+    "description": "Fast-loading, clean code wordpress visual page builder",
+    "url": "https://bricksbuilder.io/",
+    "featured": true,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Namesilo",
+    "description": "Buy cheap domain so easy",
+    "url": "https://www.namesilo.com/",
+    "featured": true,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Hostinger",
+    "description": "The most economic shared hosting choice",
+    "url": "https://www.hostinger.com/",
+    "featured": true,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Wpengine",
+    "description": "Managed hosting fast speed but expensive",
+    "url": "https://wpengine.com/",
+    "featured": false,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Cloudways",
+    "description": "Managed dedicated hosting fast speed but less expensive",
+    "url": "https://www.cloudways.com/en/",
+    "featured": false,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Runcloud",
+    "description": "Fast & economic control web server management panel",
+    "url": "https://runcloud.io",
+    "featured": true,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Themeforest",
+    "description": "Sell web themes & templates",
+    "url": "https://themeforest.net/",
+    "featured": true,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Gtmetrix",
+    "description": "Website performance testing and monitoring",
+    "url": "https://gtmetrix.com/",
+    "featured": false,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Ryte",
+    "description": "Robots txt generator",
+    "url": "https://en.ryte.com/free-tools/robots-txt-generator/",
+    "featured": false,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "DNS Checker",
+    "description": "DNS checker",
+    "url": "https://dnschecker.org/",
+    "featured": false,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "BuiltWith",
+    "description": "Website technology profiler tool",
+    "url": "https://builtwith.com/",
+    "featured": false,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Icon Horse",
+    "description": "Get any site's favicon",
+    "url": "https://icon.horse/",
+    "featured": true,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "The Favicon Finder",
+    "description": "Find any site's favicon",
+    "url": "https://besticon-demo.herokuapp.com/",
+    "featured": true,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Fluid-responsive property calculator",
+    "description": "Generate fluid-reponsive values for embedding directly into stylesheet",
+    "url": "https://websemantics.uk/tools/fluid-responsive-property-calculator/",
+    "featured": true,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Figma",
+    "description": "Design and prototyping tool for digital projects",
+    "url": "https://www.figma.com/",
+    "featured": false,
+    "tags": ["Website Building"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Wappalyzer",
+    "description": "Website technology lookups",
+    "url": "https://www.wappalyzer.com/",
+    "featured": false,
+    "tags": ["Website Building", "Chrome Plugin"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Font Space",
+    "description": "Free fonts",
+    "url": "https://www.fontspace.com/category/futuristic",
+    "featured": true,
+    "tags": ["Font"],
+    "category": "Website Building"
+  },
+  {
+    "name": "Favicon.io",
+    "description": "Favicon converter from image",
+    "url": "https://favicon.io/favicon-converter/",
+    "featured": false,
+    "tags": ["Favicon"],
+    "category": "Website Building"
+  },
+  {
+    "name": "CSS Scan",
+    "description": "57 CSS shapes examples",
+    "url": "https://getcssscan.com/css-shapes",
+    "featured": true,
+    "tags": ["CSS"],
+    "category": "Website Building"
+  },
+]

@@ -1,0 +1,37 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+
+[
+  {
+    "name": "Fiverr",
+    "description": "Freelance services marketplace",
+    "url": "https://www.fiverr.com/",
+    "featured": true,
+    "tags": ["Freelance"],
+    "category": "Freelance Platform"
+  },
+  {
+    "name": "Upwork",
+    "description": "Freelancing platform",
+    "url": "https://www.upwork.com/",
+    "featured": true,
+    "tags": ["Freelance"],
+    "category": "Freelance Platform"
+  }
+]
+

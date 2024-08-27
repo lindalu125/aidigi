@@ -1,0 +1,61 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+
+[
+  {
+    "name": "Amazon Associates",
+    "description": "Amazon's affiliate program",
+    "url": "https://affiliate-program.amazon.com/",
+    "featured": true,
+    "tags": ["Affiliate"],
+    "category": "Affiliate Marketing"
+  },
+  {
+    "name": "ShareASale",
+    "description": "Affiliate marketing network for products & services",
+    "url": "https://www.shareasale.com/",
+    "featured": false,
+    "tags": ["Affiliate"],
+    "category": "Affiliate Marketing"
+  },
+  {
+    "name": "CJ Affiliate",
+    "description": "Affiliate marketing network for diverse products",
+    "url": "https://www.cj.com/",
+    "featured": false,
+    "tags": ["Affiliate"],
+    "category": "Affiliate Marketing"
+  },
+  {
+    "name": "Rakuten Advertising",
+    "description": "Affiliate marketing network mainly for physical products",
+    "url": "https://rakutenadvertising.com/",
+    "featured": false,
+    "tags": ["Affiliate"],
+    "category": "Affiliate Marketing"
+  },
+  {
+    "name": "Admitad",
+    "description": "Affiliate marketing network for diverse products",
+    "url": "https://www.admitad.com/",
+    "featured": false, 
+    "tags": ["Affiliate"],
+    "category": "Affiliate Marketing"
+  }
+]
+

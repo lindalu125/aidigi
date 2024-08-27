@@ -1,0 +1,252 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "icon_url": "icon_path", (Optional)
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+[
+  {
+    "name": "Coverview",
+    "description": "Free online create cover images for blogs",
+    "url": "https://coverview.vercel.app/",
+    "featured": false,
+    "tags": ["Images & Icons"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Canva",
+    "description": "Easy graphic design tool",
+    "url": "https://www.canva.com/",
+    "featured": true,
+    "tags": ["Design", "Image"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "StockSnap.io",
+    "description": "Free stock photos & images",
+    "url": "https://stocksnap.io/",
+    "featured": false,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Infogram",
+    "description": "Good free infographic design tool",
+    "url": "https://infogram.com/",
+    "featured": false,
+    "tags": ["infographic"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Pictochart",
+    "description": "Free infographic maker",
+    "url": "https://piktochart.com/",
+    "featured": false,
+    "tags": ["Infographic"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Freeimages",
+    "description": "Free stock photos",
+    "url": "https://www.freeimages.com/",
+    "featured": false,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "FreeLogoDesign",
+    "description": "Free logo maker",
+    "url": "https://www.freelogodesign.org/",
+    "featured": false,
+    "tags": ["Logo"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "SVGRepo",
+    "description": "Free SVG & icons",
+    "url": "https://www.svgrepo.com/",
+    "featured": false,
+    "tags": ["SVG"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "TinEye",
+    "description": "Reverse image search",
+    "url": "https://tineye.com/",
+    "featured": true,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Unsplash",
+    "description": "Good free HD images",
+    "url": "https://unsplash.com/",
+    "featured": true,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Picjumbo",
+    "description": "Free stock photos",
+    "url": "https://picjumbo.com/",
+    "featured": false,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Icons8",
+    "description": "Free icons",
+    "url": "https://icons8.com/",
+    "featured": true,
+    "tags": ["Icons"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Pexels",
+    "description": "Free stock photos",
+    "url": "https://www.pexels.com/",
+    "featured": false,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Pixabay",
+    "description": "Free stock images",
+    "url": "https://pixabay.com/",
+    "featured": false,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Remove.bg",
+    "description": "Remove image background",
+    "url": "https://www.remove.bg/",
+    "featured": true,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Photopea",
+    "description": "Free online photo editor in your browser",
+    "url": "https://www.photopea.com/",
+    "featured": true,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "TinyPNG",
+    "description": "Compress image size",
+    "url": "hhttps://tinypng.com/",
+    "featured": true,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Squoosh",
+    "description": "Free image optimizer",
+    "url": "https://squoosh.app/",
+    "featured": true,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Iconfont",
+    "description": "Free icons",
+    "url": "https://www.iconfont.cn/",
+    "featured": true,
+    "tags": ["Icons"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Freepik",
+    "description": "Free vectors, stock photos & PSD downloads",
+    "url": "https://www.freepik.com/",
+    "featured": true,
+    "tags": ["Images"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Flaticon",
+    "description": "Free vector icons",
+    "url": "https://www.flaticon.com/",
+    "featured": false,
+    "tags": ["Icons", "SVG"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Iconfinder",
+    "description": "Free and premium vector icons",
+    "url": "https://www.iconfinder.com/",
+    "featured": false,
+    "tags": ["Icons", "SVG"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Iconmonstr",
+    "description": "Free simple icons for your next project",
+    "url": "https://iconmonstr.com/",
+    "featured": false,
+    "tags": ["Icons"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Noun Project",
+    "description": "Free icons and stock photos",
+    "url": "https://thenounproject.com/",
+    "featured": false,
+    "tags": ["Icons"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Feather Icons",
+    "description": "Simply beautiful open source icons",
+    "url": "https://feathericons.com/",
+    "featured": false,
+    "tags": ["Icons", "Open source"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Font Awesome",
+    "description": "Vector icons and social logos",
+    "url": "https://fontawesome.com/",
+    "featured": false,
+    "tags": ["Icons", "SVG"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Ionicons",
+    "description": "Premium designed SVG icons for use in web, iOS, Android, and desktop apps. Completely open source",
+    "url": "https://ionic.io/ionicons",
+    "featured": true,
+    "tags": ["Icons", "SVG", "Open source"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Fontawesome",
+    "description": "Free & paid icons library",
+    "url": "https://fontawesome.com/",
+    "featured": false,
+    "tags": ["Icons"],
+    "category": "Images & Icons"
+  },
+  {
+    "name": "Uxwing",
+    "description": "Free icons for commercial use",
+    "url": "https://uxwing.com/",
+    "featured": false,
+    "tags": ["Icons"],
+    "category": "Images & Icons"
+  }
+]

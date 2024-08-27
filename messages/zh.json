@@ -1,0 +1,104 @@
+{
+  "home": {
+    "meta_title": "DevToolset: 开源、无数据库架构的开发者工具资源导航平台",
+    "meta_description": "在这里找到您在开发旅程中需要的每一种开发者工具",
+    "h2": "开源、无数据库架构的开发者工具资源导航平台",
+    "description": "在这里找到您在开发旅程中需要的每一种开发者工具"
+  },
+  "article": {
+    "meta_title": "文章",
+    "meta_description": "阅读文章，了解最新的开发者工具以及开发经验、技巧和最佳实践",
+    "homeBtn": "首页",
+    "articleBtn": "文章",
+    "h1": "文章",
+    "h2": "阅读更多有关DevToolset的文章",
+    "backToArticles": "返回文章列表"
+  },
+  "changelog": {
+    "meta_title": "更新日志",
+    "meta_description": "查看DevToolset的更新日志",
+    "h1": "更新日志",
+    "h2": "查看DevToolset的更新日志",
+    "homeBtn": "首页",
+    "changelogBtn": "更新日志"
+  },
+  "tools": {
+    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
+    "h2_1": "所有与 ",
+    "h2_2": " 相关的开发者工具",
+    "homeBtn": "首页"
+  },
+  "search": {
+    "input_placeholder": "输入名词、关键词等搜索相关工具",
+    "heading": "建议",
+    "more": "更多",
+    "button": "搜索"
+  },
+  "navigation": { 
+    "homeBtn": "首页",
+    "categoryBtn": "分类",
+    "moreCategoryBtn": "更多",
+    "moreCategoryDescription": "更多分类",
+    "articleBtn": "文章",
+    "articleDescription": "开源、无数据库架构的开发者工具资源导航平台",
+    "article1Title": "添加新的开发者工具到DevToolset",
+    "article2Title": "部署你自己的DevToolset",
+    "moreArticleBtn": "更多",
+    "moreArticleDescription": "更多文章",
+    "changelogBtn": "更新日志",
+    "submitToolBtn": "提交工具",
+    "aiToolsBtn": "AI 工具",
+    "digiToolsBtn": "数字营销工具"
+  },
+  "footer": { 
+    "description": "开源、无数据库架构的开发者工具资源导航平台",
+    "builtWith": "基于",
+    "quickLinks": "快速链接",
+    "home": "首页",
+    "article": "文章",
+    "changelog": "更新日志",
+    "privacy": "隐私政策",
+    "termsOfService": "服务条款",
+    "legal": "��声明",
+    "connect": "联系我们",
+    "support": "支持",
+    "copyright": "版权所有。"
+  },
+  "toolsList": {
+    "more": "更多",
+    "tools": "工具"
+  },
+  "articleList": {
+    "h2": "文章",
+    "moreArticles": "更多文章"
+  },
+  "aiTools": {
+    "meta_title": "AI 工具 - DevToolset",
+    "meta_description": "发现和使用最新的 AI 开发工具",
+    "h1": "AI 工具",
+    "h2": "提升您的 AI 开发效率",
+    "description": "探索精心策划的 AI 开发工具集合，助力您的 AI 项目开发。"
+  },
+  "digiTools": {
+    "meta_title": "数字营销工具 - DevToolset",
+    "meta_description": "发现适合您营销活动的数字营销工具",
+    "h1": "数字营销工具",
+    "h2": "提升您的营销效果",
+    "description": "探索精心策划的数字营销工具集合，增强您的营销策略和活动。"
+  },
+  "submitTool": {
+    "meta_title": "提交工具 - DevToolset",
+    "meta_description": "向 DevToolset 提交您的 AI 和数字营销工具",
+    "title": "提交工具",
+    "description": "在此提交您的 AI 和数字营销工具",
+    "toolName": "工具名称",
+    "toolNamePlaceholder": "输入工具名称",
+    "toolUrl": "工具 URL",
+    "toolUrlPlaceholder": "输入工具 URL",
+    "toolDescription": "工具描述",
+    "toolDescriptionPlaceholder": "输入工具描述",
+    "toolCategory": "工具类别",
+    "selectCategory": "选择类别",
+    "submit": "提交"
+  }
+}

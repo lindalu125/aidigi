@@ -1,0 +1,109 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "icon_url": "icon_path", (Optional)
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+
+[
+  {
+    "name": "NamesoGen",
+    "description": "Generate credit card number",
+    "url": "https://namso-gen.com/",
+    "featured": false,
+    "tags": ["Credit card"],
+    "category": "Others"
+  },
+  {
+    "name": "Mr-checker",
+    "description": "Credit card checker",
+    "url": "https://www.mrchecker.net/card-checker/",
+    "featured": false,
+    "tags": ["Credit card"],
+    "category": "Others"
+  },
+  {
+    "name": "Generated Photos",
+    "description": "Generate faces tool",
+    "url": "https://generated.photos/faces",
+    "featured": false,
+    "tags": ["Generated faces"],
+    "category": "Others"
+  },
+  {
+    "name": "Apify",
+    "description": "Web scraping and automation platform",
+    "url": "https://apify.com/",
+    "featured": false,
+    "tags": ["Web scraping"],
+    "category": "Others"
+  },
+  {
+    "name": "My Private Proxy",
+    "description": "Private proxies",
+    "url": "https://www.myprivateproxy.net/private-proxies/",
+    "featured": false,
+    "tags": ["Proxy"],
+    "category": "Others"
+  },
+  {
+    "name": "HighProxies",
+    "description": "US private proxies",
+    "url": "https://highproxies.com/",
+    "featured": false,
+    "tags": ["Proxy"],
+    "category": "Others"
+  },
+  {
+    "name": "ProxySeller",
+    "description": "Private S5 & https proxies",
+    "url": "https://proxy-seller.com/",
+    "featured": false,
+    "tags": ["Proxy"],
+    "category": "Others"
+  },
+  {
+    "name": "Rapid API",
+    "description": "API hub",
+    "url": "https://rapidapi.com/",
+    "featured": false,
+    "tags": ["API"],
+    "category": "Others"
+  },
+  {
+    "name": "Scre.io",
+    "description": "Screen & camera recorder",
+    "url": "https://scre.io/",
+    "featured": false,
+    "tags": ["Recorder"],
+    "category": "Others"
+  },
+  {
+    "name": "Loom",
+    "description": "Free screen recorder & screen capture",
+    "url": "https://www.loom.com/",
+    "featured": true,
+    "tags": ["Screen recorder"],
+    "category": "Others"
+  },
+  {
+    "name": "Firstbase",
+    "description": "Offering all services in US: registering company, applying bank account etc.",
+    "url": "https://www.firstbase.io/",
+    "featured": false,
+    "tags": ["Registering company"],
+    "category": "Others"
+  }
+]

@@ -1,0 +1,68 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "icon_url": "icon_path", (Optional)
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+[
+  {
+    "name": "Stability.ai",
+    "description": "Stable diffusion model",
+    "url": "https://stability.ai/",
+    "featured": false,
+    "tags": ["AI Model"],
+    "category": "AI Model"
+  },
+  {
+    "name": "Hugging Face",
+    "description": "A community for open-source generative AI models",
+    "url": "https://huggingface.co/",
+    "featured": true,
+    "tags": ["AI Model"],
+    "category": "AI Model"
+  },
+  {
+    "name": "Civitai",
+    "description": "A hub for high-quality stable diffusion models",
+    "url": "https://civitai.com/",
+    "featured": true,
+    "tags": ["AI Model"],
+    "category": "AI Model"
+  },
+  {
+    "name": "Liblib Ai",
+    "description": "A collection of stable diffusion models",
+    "url": "https://www.liblib.art",
+    "featured": true,
+    "tags": ["AI Model"],
+    "category": "AI Model"
+  },
+  {
+    "name": "OpenArt",
+    "description": "Create Ai art & Ai models offered",
+    "url": "https://openart.ai",
+    "featured": true,
+    "tags": ["AI Model", "AI Design"],
+    "category": "AI Model"
+  },
+  {
+    "name": "Modelscope",
+    "description": "Ai models from alibaba",
+    "url": "https://modelscope.cn/home",
+    "featured": false,
+    "tags": ["AI Model"],
+    "category": "AI Model"
+  }
+]

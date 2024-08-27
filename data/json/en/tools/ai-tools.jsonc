@@ -1,0 +1,62 @@
+[
+  {
+    "name": "AI Bot",
+    "src": "ai-bot.jsonc",
+    "link": "ai-bot",
+    "description": "AI-powered chatbots and conversational agents."
+  },
+  {
+    "name": "AI Chrome Extension",
+    "src": "ai-chrome-extension.jsonc",
+    "link": "ai-chrome-extension",
+    "description": "AI-enhanced browser extensions for Chrome."
+  },
+  {
+    "name": "AI Coding",
+    "src": "ai-coding.jsonc",
+    "link": "ai-coding",
+    "description": "AI tools for code generation and programming assistance."
+  },
+  {
+    "name": "AI Copywriting",
+    "src": "ai-copywriting.jsonc",
+    "link": "ai-copywriting",
+    "description": "AI-powered content creation and copywriting tools."
+  },
+  {
+    "name": "AI Design",
+    "src": "ai-design.jsonc",
+    "link": "ai-design",
+    "description": "AI tools for graphic design and visual content creation."
+  },
+  {
+    "name": "AI Image",
+    "src": "ai-image.jsonc",
+    "link": "ai-image",
+    "description": "AI-powered image generation and editing tools."
+  },
+  {
+    "name": "AI Model",
+    "src": "ai-model.jsonc",
+    "link": "ai-model",
+    "description": "Pre-trained AI models and frameworks for various applications."
+  },
+  {
+    "name": "AI Video",
+    "src": "ai-video.jsonc",
+    "link": "ai-video",
+    "description": "AI tools for video creation, editing, and enhancement."
+  },
+  {
+    "name": "Productivity",
+    "src": "productivity.jsonc",
+    "link": "productivity",
+    "description": "AI-powered productivity tools and task management solutions."
+  },
+  {
+    "name": "Prompt",
+    "src": "prompt.jsonc",
+    "link": "prompt",
+    "description": "Tools and resources for creating effective AI prompts and instructions."
+  }
+]

@@ -1,0 +1,85 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "icon_url": "icon_path", (Optional)
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+
+[
+  {
+    "name": "PromptBase",
+    "description": "Prompt marketplace for Midjourney, ChatGPT, DALL·E, Stable Diffusion & more",
+    "url": "https://promptbase.com/",
+    "featured": true,
+    "tags": ["Prompt"],
+    "category": "Prompt"
+  },
+  {
+    "name": "Geniea",
+    "description": "Midjourney prompt optimizer",
+    "url": "https://geniea.com/",
+    "featured": true,
+    "tags": ["Prompt"],
+    "category": "Prompt"
+  },
+  {
+    "name": "PromptHero",
+    "description": "Prompts library for Midjourney, ChatGPT & Stable diffusion etc",
+    "url": "https://prompthero.com/",
+    "featured": true,
+    "tags": ["Prompt"],
+    "category": "Prompt"
+  },
+  {
+    "name": "Arthub.ai",
+    "description": "More Prompts in styles of ACGN & Asian elements",
+    "url": "https://arthub.ai/",
+    "featured": true,
+    "tags": ["Prompt"],
+    "category": "Prompt"
+  },
+  {
+    "name": "Moonvy Ops",
+    "description": "Mj & Sd prompts helper",
+    "url": "https://moonvy.com/apps/ops/",
+    "featured": true,
+    "tags": ["Prompt"],
+    "category": "Prompt"
+  },
+  {
+    "name": "PromptFolder",
+    "description": "Good free Mj prompt helper",
+    "url": "https://promptfolder.com/midjourney-prompt-helper/",
+    "featured": true,
+    "tags": ["Prompt"],
+    "category": "Prompt"
+  },
+  {
+    "name": "Stable Diffusion",
+    "description": "Ai art generator & text-to-image model",
+    "url": "https://stablediffusionweb.com/",
+    "featured": true,
+    "tags": ["AI Design", "Prompt"],
+    "category": "Prompt"
+  },
+  {
+    "name": "Aigallery",
+    "description": "Best free Mj & SD prompt helper & prompt library",
+    "url": "https://www.aigallery.top/",
+    "featured": true,
+    "tags": ["Prompt"],
+    "category": "Prompt"
+  }
+]

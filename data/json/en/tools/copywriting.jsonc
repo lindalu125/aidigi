@@ -1,0 +1,76 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+
+
+[
+  {
+    "name": "Exploding Topics",
+    "description": "Discover exploding topics",
+    "url": "https://explodingtopics.com/",
+    "featured": true,
+    "tags": ["Copywriting"],
+    "category": "Copywriting"
+  },
+  {
+    "name": "Portent",
+    "description": "Content idea & headline generator",
+    "url": "https://www.portent.com/tools/title-maker/?new=true",
+    "featured": false,
+    "tags": ["Copywriting"],
+    "category": "Copywriting"
+  },
+  {
+    "name": "Content Row",
+    "description": "High quality headline generator",
+    "url": "https://www.contentrow.com/tools/headline-generator",
+    "featured": false,
+    "tags": ["Copywriting"],
+    "category": "Copywriting"
+  },
+  {
+    "name": "Copy scape",
+    "description": "Free online plagiarism checker for articles",
+    "url": "Https://www.copyscape.com",
+    "featured": false,
+    "tags": ["Copywriting"],
+    "category": "Copywriting"
+  },
+  {
+    "name": "Winston ai",
+    "description": "The best accurate paid AI content detector with 84% accuracy",
+    "url": "https://gowinston.ai/",
+    "featured": false,
+    "tags": ["Copywriting"],
+    "category": "Copywriting"
+  },
+  {
+    "name": "Originality.ai",
+    "description": "A paid AI text detector with 76% accuracy",
+    "url": "https://originality.ai/",
+    "featured": true,
+    "tags": ["Copywriting"],
+    "category": "Copywriting"
+  },
+  {
+    "name": "Sapling",
+    "description": "Free paid AI text detector with 68% accuracy",
+    "url": "https://sapling.ai/ai-content-detector",
+    "featured": true,
+    "tags": ["Copywriting"],
+    "category": "Copywriting"
+  }
+]

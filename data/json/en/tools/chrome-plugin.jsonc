@@ -1,0 +1,114 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+[
+  {
+    "name": "Keywords Everywhere",
+    "description": "Useful cheap keyword research plugin",
+    "url": "https://keywordseverywhere.com/",
+    "featured": true,
+    "tags": ["Chrome Plugin"],
+    "category": "Chrome Plugin"
+  },
+  {
+    "name": "SEOquake",
+    "description": "Power SEO toolbox plugin",
+    "url": "https://www.seoquake.com",
+    "featured": false,
+    "tags": ["Chrome Plugin"],
+    "category": "Chrome Plugin"
+  },
+  {
+    "name": "Tubebuddy",
+    "description": "YouTube optimization and channel management tool",
+    "url": "https://www.tubebuddy.com/",
+    "featured": true,
+    "tags": ["Chrome Plugin", "Social Media"],
+    "category": "Chrome Plugin"
+  },
+  {
+    "name": "Nightwatch",
+    "description": "Simulate search engine queries from any location on Google",
+    "url": "https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon",
+    "featured": false,
+    "tags": ["Chrome Plugin"],
+    "category": "Chrome Plugin"
+  },
+  {
+    "name": "Printfriendly",
+    "description": "Print and PDF Web Pages removing ads & navigation",
+    "url": "https://www.printfriendly.com/",
+    "featured": false,
+    "tags": ["Chrome Plugin"],
+    "category": "Chrome Plugin"
+  },
+  {
+    "name": "Instant Data Scraper",
+    "description": "Extracts data from web pages",
+    "url": "https://webrobots.io/instantdata/",
+    "featured": true,
+    "tags": ["Chrome Plugin"],
+    "category": "Chrome Plugin"
+  },
+  {
+    "name": "SERPTrends",
+    "description": "Shows dynamics on Google, Yahoo and Bing SERPs",
+    "url": "http://www.serptrends.com/",
+    "featured": false,
+    "tags": ["Chrome Plugin"],
+    "category": "Chrome Plugin"
+  },
+  {
+    "name": "Glimpse",
+    "description": "Discover trends in any category",
+    "url": "https://meetglimpse.com/",
+    "featured": false,
+    "tags": ["Chrome Plugin"],
+    "category": "Chrome Plugin"
+  },
+  {
+    "name": "AIX Downloader",
+    "description": "Batch download image/video/music on the webpage",
+    "url": "https://aixdownloader.com/",
+    "featured": false,
+    "tags": ["Chrome Plugin"],
+    "category": "Chrome Plugin"
+  },
+  {
+    "name": "SimilarTech Prospecting",
+    "description": "Website profiler tool",
+    "url": "https://www.similartech.com/",
+    "featured": true,
+    "tags": ["Chrome Plugin"],
+    "category": "Chrome Plugin"
+  },
+  {
+    "name": "Similar Sites",
+    "description": "Find similar websites",
+    "url": "https://www.similarsites.com/",
+    "featured": false,
+    "tags": ["Chrome Plugin"],
+    "category": "Chrome Plugin"
+  },
+  {
+    "name": "FireShot",
+    "description": "Take webpage screenshots",
+    "url": "https://getfireshot.com/",
+    "featured": false,
+    "tags": ["Chrome Plugin"],
+    "category": "Chrome Plugin"
+  }
+]
